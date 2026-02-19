@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        liquid: {
+          top: "hsl(var(--liquid-top))",
+          bottom: "hsl(var(--liquid-bottom))",
+          wave: "hsl(var(--liquid-wave))",
+          glow: "hsl(var(--liquid-glow))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
